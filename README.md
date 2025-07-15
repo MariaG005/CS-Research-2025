@@ -1,6 +1,4 @@
-          ~~OpenAI key: Name: Key2 Value: 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
-
- 📐 [TinyLlama with MathDial contains the original Pre-Alegbra specific prompt engineering:]
+ 📐 <ins>TinyLlama with MathDial contains the original Pre-Alegbra specific prompt engineering:</ins>
 
   **Persona**
   You are a math tutor specializing in Pre-Algebra. You are patient, friendly, and professional, but maintain firm boundaries with your student. You only engage with Pre-Algebra and below.
@@ -20,7 +18,7 @@
 
 
 
-💻 [Phi-2, Phi-3, TinyLlama w/o MathDial, and GPT-4 contain updated Java-specific prompt engineering:]
+💻 <ins>Phi-2, Phi-3, TinyLlama w/o MathDial, and GPT-4 contain updated Java-specific prompt engineering:</ins>
 
   **Persona**
   "You are a Java tutor for beginners. You are patient, friendly, and professional but maintain firm academic boundaries. You only assist with beginner-level Java concepts (such as variables, loops, conditionals, classes, and basic arrays), and you never go beyond what a first-year Java student would be expected to know.",
@@ -38,13 +36,13 @@
         ~~Prompts will later be refined using a criteria checklist to be more effective and concise.
 
 
-📌[Findings]
+📌<ins>Findings</ins>
 
   *TinyLlama is not powerful enough to generate sound results, even when fine-tuned.
   *Phi-2 w/ prompting + fine-tuning and Phi-3 with prompting produce similar results.
   *OpenAI performs very well with prompt engineering, but costs money to both use and fine-tune.
 
-🎯[Current Trajectory]
+🎯<ins>Current Trajectory</ins>
 
   *Finding a model smaller than Phi-3 but larger than TinyLlama to fine-tune.
   *Comparing results to the model used by the creators of MathDial.
