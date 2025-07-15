@@ -1,4 +1,4 @@
-  ~~OpenAI key: Name: Key2 Value: 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
+          ~~OpenAI key: Name: Key2 Value: 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
 
  📐 [TinyLlama with MathDial contains the original Pre-Alegbra specific prompt engineering:]
 
